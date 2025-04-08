@@ -1,19 +1,20 @@
 {
-    "name": "House-Price",
-    "version": "1.0.0",
-    "description": "predicting Tehran house prices",
-    "main": "main.js",
-    "scripts": {
-      "start": "electron .",
-      "package": "electron-packager . HousePriceApp --platform=win32 --arch=x64 --icon=icon.ico --overwrite"
-    },
-    "author": "Madson",
-    "license": "MIT",
-    "devDependencies": {
-      "electron": "^29.0.0"
-    },
-    "dependencies": {
-      "axios": "^1.6.0"
-    }
+  "name": "House-Price",
+  "version": "1.0.0",
+  "description": "predicting Tehran house prices",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager . HousePriceApp --platform=win32 --arch=x64 --icon=icon.ico --overwrite"
+  },
+  "author": "Madson",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-installer-debian": "^3.2.0"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "follow-redirects": "^1.15.9"
   }
-  
+}

@@ -9,8 +9,11 @@ importers:
   .:
     dependencies:
       axios:
-        specifier: ^1.6.0
+        specifier: ^1.8.4
         version: 1.8.4
+      follow-redirects:
+        specifier: ^1.15.9
+        version: 1.15.9
     devDependencies:
       electron:
         specifier: ^29.0.0

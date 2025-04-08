@@ -12,6 +12,7 @@ function createWindow() {
     },
     titleBarStyle: 'hiddenInset',
     backgroundColor: '#282828',
+    icon:"./logo.ico",
   });
 
   win.loadFile('index.html');
