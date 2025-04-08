@@ -118,5 +118,4 @@ This project is open-source under the MIT License.
 
 If this project helped you or inspired you, please consider giving it a ⭐️ on GitHub!
 
-```
 
