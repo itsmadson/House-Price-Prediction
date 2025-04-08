@@ -3,7 +3,6 @@
 
 Predict housing prices in Tehran using machine learning techniques with a clean, optimized, and production-ready pipeline built on Python, XGBoost, and Scikit-learn.
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![XGBoost](https://img.shields.io/badge/Model-XGBoost-brightgreen?style=flat-square&logo=xgboost)](https://xgboost.readthedocs.io/)
 [![Dataset on Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/mokar2001/house-price-tehran-iran/data)
 
@@ -37,7 +36,6 @@ The project is optimized to:
 
 | Component        | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| `Python 3.x`     | Core programming language                                                   |
 | `Pandas`         | Data manipulation and analysis                                              |
 | `NumPy`          | Numerical operations                                                        |
 | `Scikit-learn`   | Preprocessing, pipeline construction, and model evaluation                  |
