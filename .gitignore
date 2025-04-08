@@ -1,0 +1,7 @@
+*node_modules
+*.venv
+*log.txt
+*houseprice.csv
+*__pycache__
+*.python-version
+*api.log
