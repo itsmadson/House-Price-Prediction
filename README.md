@@ -1,5 +1,5 @@
 
-# 🏠 House Price Prediction - Tehran, Iran 🇮🇷
+# 🏠 House Price Prediction - Tehran, Iran 
 
 Predict housing prices in Tehran using machine learning techniques with a clean, optimized, and production-ready pipeline built on Python, XGBoost, and Scikit-learn.
 
