@@ -1,0 +1,20 @@
+┌──(madson㉿kali)-[~/House-Price-Pridiction/Model]
+└─$ uv run main.py
+✅ Loaded: 3473 rows
+/home/madson/House-Price-Pridiction/Model/main.py:43: UserWarning: Glyph 127968 (\N{HOUSE BUILDING}) missing from font(s) DejaVu Sans.
+  plt.savefig(f"graphs/{col}_distribution.png")
+/home/madson/House-Price-Pridiction/Model/main.py:43: UserWarning: Glyph 128719 (\N{BED}) missing from font(s) DejaVu Sans.
+  plt.savefig(f"graphs/{col}_distribution.png")
+/home/madson/House-Price-Pridiction/Model/main.py:43: UserWarning: Glyph 128176 (\N{MONEY BAG}) missing from font(s) DejaVu Sans.
+  plt.savefig(f"graphs/{col}_distribution.png")
+
+🚀 Training...
+✅ R2 Score: 0.7897
+✅ MAE: 1,371,923,750
+✅ RMSE: 3794721811
+/home/madson/House-Price-Pridiction/Model/main.py:102: UserWarning: Glyph 128200 (\N{CHART WITH UPWARDS TREND}) missing from font(s) DejaVu Sans.
+  plt.savefig("graphs/predicted_vs_actual.png")
+/home/madson/House-Price-Pridiction/Model/main.py:111: UserWarning: Glyph 128201 (\N{CHART WITH DOWNWARDS TREND}) missing from font(s) DejaVu Sans.
+  plt.savefig("graphs/prediction_error_distribution.png")
+💾 Model saved at saved_models/house_price_model.pkl
+                                                      
